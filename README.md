@@ -26,6 +26,8 @@ Follow these steps to set up and run the Hackathon App locally:
    git clone <repository-url>
    cd hackathon
 2. **Install Dependencies: Using npm**:
+   ```sh
     npm install --legacy-peer-deps
 3. **Start the Development Server: Using npm**:
+   ```sh
     npm start
